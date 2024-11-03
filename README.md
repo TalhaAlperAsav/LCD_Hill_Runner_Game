@@ -15,3 +15,5 @@
 1. **Press the button** to make the hero jump.
 2. **Avoid obstacles** by jumping at the right time.
 3. If the hero hits an obstacle, the game shows “Game Over.”
+
+![Game Screenshot](./gameplay.jpg)
