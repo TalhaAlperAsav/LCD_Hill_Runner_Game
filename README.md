@@ -7,6 +7,7 @@
 - **Push Button**
 - Jumper wires and breadboard for setup
 
+![Game Screenshot](./setup.jpg)
 
 
 ## How to Play
